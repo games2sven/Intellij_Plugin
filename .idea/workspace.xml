@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3b84431a-0118-414f-81e7-7e95e7682e02" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Butterknife_Plugin.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Butterknife_Plugin.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Butterknife_Plugin/META-INF/plugin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Butterknife_Plugin/action/ButterknifePlugin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Butterknife_Plugin/entity/Element.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Butterknife_Plugin/utils/Util$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Butterknife_Plugin/utils/Util$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Butterknife_Plugin/utils/Util.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Butterknife_Plugin/view/FindViewByIdDialog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Butterknife_Plugin/view/IdBean$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Butterknife_Plugin/view/IdBean$ClickActionListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Butterknife_Plugin/view/IdBean$EnableActionListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Butterknife_Plugin/view/IdBean$FieldFocusListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Butterknife_Plugin/view/IdBean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Butterknife_Plugin/view/ViewFieldMethodCreator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/META-INF/plugin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/action/ButterknifePlugin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/entity/Element.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/Util.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/view/FindViewByIdDialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/view/IdBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/view/ViewFieldMethodCreator.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\Study\Intellij_Plugin\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VjmwbW60cwvX2PZT3jdf0Y0oUc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Plugin" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="Butterknife_Plugin" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="Butterknife_Plugin" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3b84431a-0118-414f-81e7-7e95e7682e02" name="Default Changelist" comment="" />
+      <created>1577775117107</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577775117107</updated>
+      <workItem from="1577775120854" duration="5430000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1016" y="296" key="#com.intellij.ide.util.MemberChooser" timestamp="1577775575178">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1016" y="296" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1577775575178" />
+    <state x="889" y="278" key="FileChooserDialogImpl" timestamp="1577775308116">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="889" y="278" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1577775308116" />
+    <state x="749" y="277" key="NewModule_or_Project.wizard" timestamp="1577775386468">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="749" y="277" key="NewModule_or_Project.wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1577775386468" />
+    <state x="1101" y="270" key="run.anything.popup" timestamp="1577778351406">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1101" y="270" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1577778351406" />
+  </component>
+</project>
